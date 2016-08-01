@@ -4,4 +4,4 @@
 For start application you should run 2 command:
 ##npm i
 ##npm start
-##then go to url http://localhost:8080/
+##then go to url [http://localhost:8080/](http://localhost:8080/)
