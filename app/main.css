@@ -1,0 +1,26 @@
+body {
+  background: cornsilk;
+  font-family: sans-serif;
+}
+.square{
+  height: 30px;
+  width: 30px;
+  border: 2px solid black;
+  padding: 10px 0 0 10px;
+  cursor: pointer;
+}
+.circle {
+	width: 20px;
+	height: 20px;
+  opacity: 0;
+	background: red;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+.squares{
+  width: 200px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+}
